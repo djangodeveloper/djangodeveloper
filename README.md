@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with vuejs
 - 💬 Ask me about python and django
 - 📫 How to reach me: jpcgabatan@gmail.com
-- ⚡ Fun fact: Coffee
+- ⚡ Fun fact: coffee
 <!-- - 😄 Pronouns: ... -->
 
 <h3 align="left">Connect with me:</h3>
